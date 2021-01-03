@@ -1,0 +1,31 @@
+Revision Info file
+******************
+Rev. 0.0 = start with idea
+***
+Rev. 1.0 = build 2 MHz clock generator circuit
+Rev. 1.1 = build power regulator + zener diode
+Rev. 1.2 = add 250 KHz clock generator circuit
+Rev. 1.3 = change power regulator with 3A regulator
+***
+Rev. 2.0 = build op amp and speaker
+***
+Rev. 3.0 = add counters for address generator and connect to 250 KHz clock generator
+Rev. 3.1 = wire EEPROM to counters
+Rev. 3.2 = wire EEPROM to AY-3-8910
+Rev. 3.3 = wire AY-3-8910 to 2 MHz clock generator
+Rev. 3.4 = wire AY-3-8910 to speaker
+Rev. 3.5 = add 2 more EEPROM for data plus one EEPROM for chip selection (see excel file to setup addresses and chip selection bits)
+Rev. 3.6 = wire all data lines
+Rev. 3.7 = wire LATCH and DWS of AY-3-8910
+Rev. 3.8 = correct a wire error for BC lines
+***
+Rev. 4.0 = add and wire AY-3-8912 and AY-3-8913
+Rev. 4.1 = add heat sinks
+Rev. 4.2 = rewire counters to fix errors
+Rev. 4.3 = add reset button and wires
+Rev. 4.4 = add LED to indicate circuit is on
+Rev. 4.5 = change oscillators to commercial values
+Rev. 4.6 = change oscillators to commercial values
+Rev. 4.7 = change normal capacitor to commercial values
+Rev. 4.8 = change C21 capacitor to an electrolic one, now C3 in schematics, of 250uF
+Rev. 4.9 = change power switcher with a jumper
